@@ -2,7 +2,6 @@ package com.example.janan;
 
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -11,7 +10,6 @@ import java.io.OutputStreamWriter;
 import android.widget.Toast;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
 import android .widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
